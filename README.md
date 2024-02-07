@@ -3,7 +3,7 @@ Link to deployed application:
 
 
 Link to the repository:
-
+https://github.com/Watsonaj0316/quiz-java-1/blob/main/README.md
 
 Features:
 The user can take a timed quiz about javascript with a total of five questions.
