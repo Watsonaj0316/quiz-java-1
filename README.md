@@ -14,4 +14,4 @@ General Info: The user will have 60 seconds to complete the quiz. If the user an
 
 Screenshot of the  following application:
 
- ![screenshot](IMG_5693)
+ ![screenshot](IMG_5693.jpg)
