@@ -1,6 +1,6 @@
 # quiz-java-1
 Link to deployed application:
-
+ https://watsonaj0316.github.io/quiz-java-1/
 
 Link to the repository:
 https://github.com/Watsonaj0316/quiz-java-1/blob/main/README.md
